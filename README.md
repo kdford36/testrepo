@@ -1,2 +1,2 @@
 # testrepo
-test repo to learn how to create a repository
+This is a test repo to learn and explore how to create a repository in GitHub. 
